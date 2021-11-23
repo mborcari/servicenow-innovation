@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="idea_type" table="x_415716_innovate_innovate" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <name>x_415716_innovate_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-21 16:35:22</sys_created_on>
+            <sys_id>40ae541c87000110a1b9873d0ebb35c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>idea_type</sys_name>
+            <sys_package display_value="Innovate" source="x_415716_innovate">bcd41c5487000110a1b9873d0ebb35b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">bcd41c5487000110a1b9873d0ebb35b4</sys_scope>
+            <sys_update_name>sys_choice_x_415716_innovate_innovate_idea_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-21 16:35:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Savings</label>
+            <language>en</language>
+            <name>x_415716_innovate_innovate</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-21 16:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04ae541c87000110a1b9873d0ebb35c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-21 16:35:22</sys_updated_on>
+            <value>cost_savings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Improvement</label>
+            <language>en</language>
+            <name>x_415716_innovate_innovate</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-21 16:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44ae541c87000110a1b9873d0ebb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-21 16:35:22</sys_updated_on>
+            <value>process_improvement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Team Building</label>
+            <language>en</language>
+            <name>x_415716_innovate_innovate</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-21 16:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cae541c87000110a1b9873d0ebb35ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-21 16:35:22</sys_updated_on>
+            <value>team_building</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
